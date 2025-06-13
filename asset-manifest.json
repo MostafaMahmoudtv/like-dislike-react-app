@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/like-dislike-react-app/static/css/main.e6c13ad2.css",
+    "main.js": "/like-dislike-react-app/static/js/main.427ac77c.js",
+    "static/js/453.102af9b7.chunk.js": "/like-dislike-react-app/static/js/453.102af9b7.chunk.js",
+    "index.html": "/like-dislike-react-app/index.html",
+    "main.e6c13ad2.css.map": "/like-dislike-react-app/static/css/main.e6c13ad2.css.map",
+    "main.427ac77c.js.map": "/like-dislike-react-app/static/js/main.427ac77c.js.map",
+    "453.102af9b7.chunk.js.map": "/like-dislike-react-app/static/js/453.102af9b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.427ac77c.js"
+  ]
+}
